@@ -1,0 +1,7 @@
+.circleci/
+.git/
+example/
+test/
+.editorconfig
+.eslintrc
+webpack.*.js

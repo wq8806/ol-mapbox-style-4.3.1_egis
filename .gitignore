@@ -1,0 +1,17 @@
+node_modules
+dist
+coverage
+package-lock.json
+
+.settings/
+target/
+.classpath/
+.classpath
+.project
+
+.recommender/
+
+.idea
+.idea/
+*/.idea/
+.metadata/
